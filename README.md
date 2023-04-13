@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [NexteraWeb](https://nexteraweb.net)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m am a **Full Stack Web Developer**
 
 - 📝 My website (business) is [nexteraweb.net](https://nexteraweb.net)
 
-- 📝 My website (personal blog) is [mauriciojc.com](https://mauriciojc.com)
+- 📝 My website (personal blog) is [mauriciojc.com](https://mauriciojc.com), I write about everything.
 
 - 📫 You can reach me at **maujcardenas@gmail.com**
 
