@@ -1,4 +1,3 @@
-  <h1>Introduction</h1>
   <p>Hi, I'm Mauricio Cárdenas.</p>
   
   <h2>About Me</h2>
