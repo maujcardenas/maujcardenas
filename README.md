@@ -16,6 +16,8 @@
     <li>JavaScript</li>
     <li>NextJs (and React)</li>
     <li>Postgresql</li>
+    <li>Strapi Headless CMS</li>
+    <li>Wordpress CMS</li>
   </ul>
   
   <h2>Interests</h2>
