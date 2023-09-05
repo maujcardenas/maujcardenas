@@ -26,6 +26,8 @@
     <li>Photography</li>
     <li>Mindfulness</li>
     <li>Traveling</li>
+    <li>Education</li>
+    <li>Chess</li>
     <li>Asia</li>
   <li>Mathematics</li>
   </ul>
