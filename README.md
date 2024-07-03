@@ -1,35 +1,27 @@
-<p>Hi, I'm Mauricio Cárdenas.</p>
-
-<h2>About Me</h2>
-<p>🌱 I am a <strong>Full Stack Web Developer</strong></p>
+<h2>Hi, I'm Mauricio Cárdenas.</h2>
+<p>🌱 I am a <strong> Mathematician </strong> and <strong>Full Stack Developer</strong></p>
 <p>📝 My website (personal blog) is <a href="https://mauriciojc.com">mauriciojc.com</a>, where I write about everything.</p>
 <p>📫 You can reach me at <strong>maujcardenas@gmail.com</strong></p>
 
 <h2>Programming Skills</h2>
 <div>
+  <span>🛠️ JavaScript</span> |
+  <span>🐍 Python</span> |
   <span>💻 HTML/ HTML 5</span> |
   <span>🎨 CSS</span> |
-  <span>🛠️ JavaScript</span> |
-  <span>⚛️ Next.js (and React)</span> |
-  <span>🗄️ PostgreSQL</span> |
-  <span>🚀 Strapi Headless CMS</span> |
-  <span>📋 WordPress CMS</span> |
-  <span>🐍 Python</span>
+  <span>⚛️ NextJS (and ReactJS)</span> |
+  <span>📋 WordPress CMS</span> 
 </div>
 
 <h2>Interests</h2>
 <div>
   <span>🌐 Web Development</span> |
+  <span>📊 Data Analysis</span> |
+  <span>🔢 Mathematics</span> |
   <span>📸 Photography</span> |
-  <span>🧘 Mindfulness</span> |
-  <span>✈️ Traveling</span> |
-  <span>📚 Education</span> |
-  <span>♟️ Chess</span> |
   <span>🌏 Asia</span> |
-  <span>➗ Mathematics</span>
+  <span>🧘 Mindfulness</span> 
 </div>
-
-<p>Feel free to reach out if you have any questions or would like to collaborate!</p>
 
 <h2>Current Projects</h2>
 <ul>
