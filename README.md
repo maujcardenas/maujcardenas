@@ -1,8 +1,8 @@
-<h2>Hi, I'm Mauricio Cárdenas.</h2>
-<p>🌱 I am a <strong> Mathematician </strong> and <strong>Full Stack Developer</strong></p>
-<p>📝 My website (personal blog) is <a href="https://mauriciojc.com">mauriciojc.com</a>, where I write about everything.</p>
-<p>📫 You can reach me at <strong>maujcardenas@gmail.com</strong></p>
-
+<h2>I'm Mauricio Cárdenas.</h2>
+<ul>
+<li>I am a <strong> Mathematician </strong> and <strong>Full Stack Developer</strong></li>
+<li>You can reach me at <strong>maujcardenas@gmail.com</strong></li>
+</ul>
 <h2>Programming Skills</h2>
 <div>
   <span>🛠️ JavaScript</span> |
