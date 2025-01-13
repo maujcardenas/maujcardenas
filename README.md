@@ -27,8 +27,9 @@
 
 <h2>Current Projects</h2>
 <ul>
-  <li>🔧 Developing a Streamlit application using Python and libraries such as Streamlit, Matplotlib, and Pandas.</li>
-  <li>📊 Focusing on full stack development with a strong emphasis on data.</li>
+  <li> Mantaining a Streamlit application for sales data analysis for a company</li>
+  <li> Entrepenurial adventure hosting wordpress websites </li>
+  <li> Learning, always learning </li>
 </ul>
 
 <p>Feel free to reach out if you have any questions or would like to collaborate!</p>
