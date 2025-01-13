@@ -5,22 +5,24 @@
 </ul>
 <h2>Programming Skills</h2>
 <div>
-  <span>🛠️ JavaScript</span> |
-  <span>🐍 Python</span> |
-  <span>💻 HTML/ HTML 5</span> |
-  <span>🎨 CSS</span> |
-  <span>⚛️ NextJS (and ReactJS)</span> |
-  <span>📋 WordPress CMS</span> 
+  <ul>
+    <li>Python</li>
+    <li>Python specifics: Streamlit, Pandas, Numpy</li>
+    <li>Fundamental Web: JavaScript, HTML, CSS</li>
+    <li>Specialized Web Development: Svelte, Strapi Headless CMS</li>
+    <li>WordPress CMS</li>
+  </ul>
 </div>
 
 <h2>Interests</h2>
 <div>
-  <span>🌐 Web Development</span> |
-  <span>📊 Data Analysis</span> |
-  <span>🔢 Mathematics</span> |
-  <span>📸 Photography</span> |
-  <span>🌏 Asia</span> |
-  <span>🧘 Mindfulness</span> 
+    <ul>
+    <li>Web Development</li>
+    <li>Data Analysis, Statistics and Engineering</li>
+    <li>Mathematics</li>
+    <li>Portrait and Grey Photography</li>
+    <li>Asia and Philosophy</li>
+  </ul>
 </div>
 
 <h2>Current Projects</h2>
