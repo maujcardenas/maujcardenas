@@ -1,7 +1,7 @@
 <h2>I'm Mauricio Cárdenas.</h2>
 <ul>
-<li>I am a <strong> Mathematician </strong> and <strong>Full Stack Developer</strong></li>
-<li>You can reach me at <strong>mau@mauriciojc.com</strong></li>
+<li>I am a <strong> Mathematician </strong>
+<li>You can reach me at <strong>maujcardenas@gmail.com</strong></li>
 </ul>
 <h2>Programming Skills</h2>
 <div>
@@ -9,9 +9,7 @@
     <li>Python</li>
     <li>Python specifics: Streamlit, Pandas, Plotly, Numpy</li>
     <li>Fundamental Web: JavaScript, HTML, CSS</li>
-    <li>Specialized Web Development: Svelte, Strapi Headless CMS</li>
-    <li>WordPress CMS</li>
-    <li>WordPress Plugin Development</li>
+    <li>Specialized Web Development: Svelte</li>
   </ul>
 </div>
 
@@ -19,19 +17,17 @@
 <div>
     <ul>
     <li>Web Development</li>
-    <li>Data Analysis, Statistics and Engineering</li>
+    <li>Data Analysis, Statistics and Data Engineering</li>
     <li>Mathematics</li>
-    <li>Portrait and Grey Photography</li>
+    <li>Photography</li>
     <li>Asia and Philosophy</li>
   </ul>
 </div>
 
 <h2>Current Projects</h2>
 <ul>
-  <li> Mantaining a Streamlit application for sales data analysis for a company</li>
-  <li> Entrepenurial adventure hosting wordpress websites </li>
+  <li> Mathematics teaching </li>
   <li> Learning, always learning </li>
 </ul>
 
-<p>Feel free to reach out if you have any questions or would like to collaborate! (mau@mauriciojc.com) </p>
-
+<p>Feel free to reach out if you have any questions or would like to collaborate! (maujcardenas@gmail.com) </p>
