@@ -6,9 +6,15 @@
 </ul>
 <h2> My Websites (my services)</h2>
 <ul>
-  <li><a href="https://mauriciojc.com"> My personal website (mauriciojc.com) </a></li>
-  <li><a href="https://mautematicas.com"> Mathematics blog and tutoring (mautematicas.com) </a></li>
-  <li><a href="https://tusitiowp.com"> Website design and hosting (tusitiowp.com) </a></li>
+  <li><a href="https://mauriciojc.com" aria-label="Personal Website" target="_blank" rel="noopener noreferrer"> 
+    My personal website (mauriciojc.com) </a>
+  </li>
+  <li><a href="https://mautematicas.com" aria-label="Math Blog" target="_blank" rel="noopener noreferrer"> 
+    Mathematics blog and tutoring (mautematicas.com) </a>
+  </li>
+  <li><a href="https://tusitiowp.com" aria-label="Web Design Services" target="_blank" rel="noopener noreferrer"> 
+    Website design and hosting (tusitiowp.com) </a>
+  </li>
 </ul>
 
 <h2>Programming Skills</h2>
